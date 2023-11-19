@@ -43,4 +43,4 @@ const Bird = () => {
   );
 };
 
-export default Bird;
+export { Bird };

@@ -22,4 +22,4 @@ const Plane = ({ isRotating, ...props }) => {
   );
 };
 
-export default Plane;
+export { Plane };

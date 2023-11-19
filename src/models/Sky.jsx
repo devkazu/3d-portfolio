@@ -18,4 +18,4 @@ const Sky = ({ isRotation }) => {
   );
 };
 
-export default Sky;
+export { Sky };
